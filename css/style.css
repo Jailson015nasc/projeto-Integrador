@@ -1,0 +1,137 @@
+body{
+   background-color: #000;
+}
+
+.tela-inicio{
+     width: 375px;
+     height: 812px;
+     margin-bottom: 20px;
+     background-color: #0D1295;
+     margin: auto;
+}
+
+.img1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 300px;
+}
+
+h1{
+    font-size: 32px;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+.tela-login{
+    width: 375px;
+    height: 812px;
+    margin-bottom: 20px;
+    background-color: #0D1295;
+    margin: auto;
+       
+}
+
+.cadastro{
+ display: flex;
+ justify-content: center;
+ margin: auto auto auto;
+  padding-top: 30px;
+  gap: 20px;
+  display: grid;
+  width: 50px;
+
+
+  
+
+}
+a{
+    color:  #fff;
+}
+.cadastro input{
+    background:  #403D3D;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.vagas-disponiveis{
+       width: 375px;
+       height: 812px;
+        margin-bottom: 20px;
+       background-color: #0D1295;
+       margin: auto;
+}
+::placeholder{
+    color: white;
+}
+
+.img3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 170px;
+
+}
+
+.barrinha{
+    
+    justify-content: center;
+    padding-left: 348px;
+    padding-top: 9px;
+    
+}   
+
+p{
+    font-size: 17px;
+    color: #fff;
+    font-family: sans-serif;
+
+    
+}
+
+
+.localizacao{
+    width: 375px;
+    height: 812px;
+    margin: auto;
+    background-color: #0D1295;
+}
+.cadastro input{
+    width: 250px;
+}
+button{
+    width: 150px;
+    padding: 5px;
+    margin: auto auto;
+    background-color: red;
+  
+}
+button a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.vagas-disponiveis a{
+    text-decoration: none;
+    padding: 10px 60px;
+}
+
+.link{
+    background-color: #403D3D;
+    border-radius: 10px;
+}
+
+.links{
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.setinha3{
+    margin-left: 40px;
+}
